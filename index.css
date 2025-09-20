@@ -22,3 +22,12 @@ img {
 .center {
     text-align: center;
 }
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50px;
+    background-color: #494949;
+    color: white;
+}
